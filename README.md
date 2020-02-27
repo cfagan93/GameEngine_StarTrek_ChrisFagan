@@ -33,7 +33,7 @@ Scene 4
 
 ![Scene4](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_4.JPG)
 
-* Camera rotating around the Allie ship which captures the emeny ship in standoff.
+* In this scene Camera rotating around the Allie ship which captures the emeny ship in standoff.
 * Asteroids from a far will be in a state of random rotation and size.
 
 
@@ -42,7 +42,7 @@ Scene 5
 
 ![Scene5](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_5.JPG)
 
-* Camera pans out while the battle commences.
+* In this scene the Camera pans out while the battle commences.
 * Both the enemy and allies fire at eachother while explosive particle affects will go off.
 
 
