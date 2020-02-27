@@ -44,3 +44,39 @@ Scene 5
 
 * Camera pans out while the battle commences.
 * Both the enemy and allies fire at eachother while explosive particle affects will go off.
+
+
+
+Scene 6
+=============
+
+![Scene6](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_6.JPG)
+
+
+* Camera zooms in while both factions are continuously attack eachother with everything they have.
+
+
+
+
+Scene 7
+=============
+
+![Scene7](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_7.JPG)
+
+* Camera zooms in while both factions are continuously attack eachother with everything they have.
+
+
+
+
+
+
+Scene 8
+=============
+
+
+
+
+
+
+Scene 9
+=============
