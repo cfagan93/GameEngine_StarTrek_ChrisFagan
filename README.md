@@ -15,3 +15,5 @@ Scene 2
 =============
 
 ![Scene2](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_2.JPG)
+* The camera will change position and show the multiple spaceships leave the hangar from a different angle.
+
