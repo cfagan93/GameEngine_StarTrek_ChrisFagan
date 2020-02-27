@@ -87,5 +87,16 @@ Scene 9
 
 ![Scene9](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_9.JPG)
 
-*In this final scene ally ships are trying to avoid the constant barage of enemy fire and lasers.
-*Chaos unfolds
+* In this final scene ally ships are trying to avoid the constant barage of enemy fire and lasers.
+* Chaos unfolds
+
+
+
+List of Assets and Credits
+=============
+
+* Cinemachine by Unity
+* Spaceship models found on Opengameart.com
+* Starfield Skybox by Pulsar Bytes on the Unity Asset Store (https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717)
+
+
