@@ -76,9 +76,9 @@ Scene 8
 
 ![Scene8](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_8.JPG)
 
-*In this scene both ally ships fly out of the chaos that is unfolding.
-*They are both taking heavy damage from the enemy.
-*Constant particle explosions are going off around them in the space battlefield.
+* In this scene both ally ships fly out of the chaos that is unfolding.
+* They are both taking heavy damage from the enemy.
+* Constant particle explosions are going off around them in the space battlefield.
 
 
 
