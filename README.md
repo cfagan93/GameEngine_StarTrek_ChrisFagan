@@ -22,10 +22,15 @@ Scene 3
 =============
 
 
-![Scene2](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_3.JPG)
+![Scene3](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_3.JPG)
 
 * This is where we have the standoff before the big battle.
 * Enemy and Allie ships will be in a idle state waiting to attack.
 
 
+Scene 4
+=============
 
+![Scene4](https://github.com/cfagan93/GameEngine_StarTrek_ChrisFagan/blob/master/StarTrekStoryBoard/Scene_4.JPG)
+
+* Camera rotating around the Allie ship which captures the emeny ship in standoff
