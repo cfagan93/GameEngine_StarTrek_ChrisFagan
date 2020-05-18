@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 79a0f7a2ae9f6734bab76f1005aba13d
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 6225833576107165227
+    second: DSC_Discovery:dis_lightGlass|Camera|Base Stack|DefaultLayer
+  - first:
+      74: -5965634960859463922
+    second: DSC_Discovery:dis_lightGlass|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: -2649542812082543410
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 7481504900699556662
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: 9154184580026615096
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: -8680811929277586118
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: 3994670673136321158
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: 7554048305226397293
+    second: DSC_Discovery:dis_lightGlass|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: -4337462644497347697
+    second: DSC_Discovery:dis_lightGlass|Light|Base Stack|DefaultLayer
+  - first:
+      74: 8128009312020293378
+    second: DSC_Discovery:dis_outerRing|Camera|Base Stack|DefaultLayer
+  - first:
+      74: -9145745009231476629
+    second: DSC_Discovery:dis_outerRing|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: 4846876784809864023
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 311550603115783997
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: -2832815793098352887
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: 4960718698299194797
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: -5273995671423586251
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: -4039382346770722087
+    second: DSC_Discovery:dis_outerRing|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: 5968214832630016883
+    second: DSC_Discovery:dis_outerRing|Light|Base Stack|DefaultLayer
+  - first:
+      74: -1070176183710175240
+    second: DSC_Discovery:dis_insignia01|Camera|Base Stack|DefaultLayer
+  - first:
+      74: 6668920983266571310
+    second: DSC_Discovery:dis_insignia01|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: 3055321035631507461
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 4637099098484178562
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: -1797079228744490553
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: 3775325032329621467
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: 5662404361589660910
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: -7519966216738959704
+    second: DSC_Discovery:dis_insignia01|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: -7483861198892372073
+    second: DSC_Discovery:dis_insignia01|Light|Base Stack|DefaultLayer
+  - first:
+      74: -7661605456263312654
+    second: DSC_Discovery:dis_nacelle|Camera|Base Stack|DefaultLayer
+  - first:
+      74: 5385519195942480378
+    second: DSC_Discovery:dis_nacelle|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: 8884544988875731438
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 7976249571193903920
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: -6615142481980956850
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: -6585624670218079288
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: -3021388129704211871
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: -9182139224163778880
+    second: DSC_Discovery:dis_nacelle|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: -919960973154359873
+    second: DSC_Discovery:dis_nacelle|Light|Base Stack|DefaultLayer
+  - first:
+      74: -7317613687243109226
+    second: DSC_Discovery:dis_insignias|Camera|Base Stack|DefaultLayer
+  - first:
+      74: -2388826122001762634
+    second: DSC_Discovery:dis_insignias|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: -4607885149595654170
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 8507027664900074398
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: 2631608404491103509
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: -397243583695226397
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: 6785017031936232327
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: -2155462796222387376
+    second: DSC_Discovery:dis_insignias|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: 2249474601423332108
+    second: DSC_Discovery:dis_insignias|Light|Base Stack|DefaultLayer
+  - first:
+      74: -2848365435593256754
+    second: DSC_Discovery:dis_mainBody|Camera|Base Stack|DefaultLayer
+  - first:
+      74: 6996675413296244756
+    second: DSC_Discovery:dis_mainBody|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: -2766061563139070599
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: -6794490380474490487
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: -932936364302419879
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: 6290132144369772811
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: -5290710423938390488
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: 4863521390888800270
+    second: DSC_Discovery:dis_mainBody|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: 7391926166014747965
+    second: DSC_Discovery:dis_mainBody|Light|Base Stack|DefaultLayer
+  - first:
+      74: 932737424687625061
+    second: Camera|Camera|Base Stack|DefaultLayer
+  - first:
+      74: 3528460839027616643
+    second: Camera|Camera|Base Stack|DefaultLayer.001
+  - first:
+      74: 4431826090367771890
+    second: Camera|DSC_Discovery:dis_insignia01|Base Stack|DefaultLayer
+  - first:
+      74: 2733789165823011707
+    second: Camera|DSC_Discovery:dis_insignias|Base Stack|DefaultLayer
+  - first:
+      74: 4699142161350304141
+    second: Camera|DSC_Discovery:dis_lightGlass|Base Stack|DefaultLayer
+  - first:
+      74: -776586691833778571
+    second: Camera|DSC_Discovery:dis_mainBody|Base Stack|DefaultLayer
+  - first:
+      74: 6686050565895397355
+    second: Camera|DSC_Discovery:dis_nacelle|Base Stack|DefaultLayer
+  - first:
+      74: -2437299542780355198
+    second: Camera|DSC_Discovery:dis_outerRing|Base Stack|DefaultLayer
+  - first:
+      74: -274545832871072010
+    second: Camera|Light|Base Stack|DefaultLayer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
