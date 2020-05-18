@@ -6,15 +6,13 @@ using UnityEngine.SceneManagement;
 public class SceneChange : MonoBehaviour
 {
 
-
-    public int num;
-
-    private void OnMouseDown()
+    [SerializeField] private string Scene2;
+    void Update()
     {
-        SceneManager.LoadScene(num);
-        Debug.Log("Scene changed to " + num);
-
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SceneManager.LoadScene(Scene2);
+        }
     }
-
 }
 
