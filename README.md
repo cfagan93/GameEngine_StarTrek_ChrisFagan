@@ -1,6 +1,8 @@
 # GameEngine_StarTrek_ChrisFagan
 Game Engine Star Trek Scene Reproduction
 
+* Use the space key to switch scenes
+
 
 Scene 1
 =============
