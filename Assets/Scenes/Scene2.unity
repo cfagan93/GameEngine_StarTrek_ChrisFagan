@@ -1981,7 +1981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95cd15b6228222a459c8a3d054ae5659, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Scene2: 
+  Scene2: Scene3
 --- !u!1001 &1444243280
 PrefabInstance:
   m_ObjectHideFlags: 0

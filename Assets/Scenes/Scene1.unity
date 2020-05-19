@@ -3685,7 +3685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enableInputCapture: 1
   lockAndHideCursor: 0
-  holdRightMouseCapture: 1
+  holdRightMouseCapture: 0
   lookSpeed: 1
   moveSpeed: 2
   sprintSpeed: 59
