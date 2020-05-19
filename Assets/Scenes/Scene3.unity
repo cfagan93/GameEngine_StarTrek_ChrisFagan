@@ -2245,7 +2245,7 @@ PrefabInstance:
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
       propertyPath: m_inspectorProperties.m_rotate
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
@@ -2255,7 +2255,7 @@ PrefabInstance:
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
       propertyPath: m_inspectorProperties.m_rotationSpeed
-      value: 1
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
@@ -2665,6 +2665,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100002, guid: 6e8c7c425e5bc374daf95a774767b1e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: 6e8c7c425e5bc374daf95a774767b1e3, type: 3}
       propertyPath: m_Name
       value: Exploson6
@@ -5320,7 +5324,7 @@ PrefabInstance:
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
       propertyPath: m_inspectorProperties.m_rotationSpeed
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 114344569033871604, guid: a76c42d3eb9f68744aca0c439591f624,
         type: 3}
