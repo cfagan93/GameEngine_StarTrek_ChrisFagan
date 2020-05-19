@@ -25,7 +25,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Amount: 1
-    - _Amplitude: 50
+    - _Amplitude: 20
     - _CutOutThresh: 1
     - _Distance: 0.1
     - _Speed: 2
