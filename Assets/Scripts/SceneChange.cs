@@ -7,6 +7,7 @@ public class SceneChange : MonoBehaviour
 {
 
     [SerializeField] private string Scene2;
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
