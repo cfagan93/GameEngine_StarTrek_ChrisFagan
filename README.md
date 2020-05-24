@@ -4,12 +4,18 @@ Game Engine Star Trek Scene Reproduction
 
 Instructions
 
-* Use the space key to switch scenes
+* Please download project and open Scene 1.
+
+* The project will automatically play and the player will have to use the space button to switch scenes. The player (you) also has contorl of the free movement camera. 
 
 How it works
 
+* 
+
 
 What am i most proud of in this assignment
+
+* Creating a sci fi space battle scene which closely 
 
 
 Scene 1
