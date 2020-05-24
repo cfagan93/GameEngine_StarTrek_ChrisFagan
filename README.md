@@ -33,6 +33,7 @@ I create a serialized field with detection distance which creates the distance o
 
 
 * Scripts I Created
+
 EnemyMovement
 Asteroids
 AsteroidsManager
@@ -40,6 +41,7 @@ Flickering Lights
 SceneChanger
 
 * Scripts and tutorials i followed
+
 Hologram Shader
 FreeCam
 CameraController
