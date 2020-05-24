@@ -1,7 +1,15 @@
 # GameEngine_StarTrek_ChrisFagan
 Game Engine Star Trek Scene Reproduction
 
+
+Instructions
+
 * Use the space key to switch scenes
+
+How it works
+
+
+What am i most proud of in this assignment
 
 
 Scene 1
