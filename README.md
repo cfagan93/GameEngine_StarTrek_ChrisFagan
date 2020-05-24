@@ -25,7 +25,7 @@ What am i most proud of in this assignment
 
 * Creating a fluid space ship movement script that moves towards a target while avoiding obstacles in its path or way.
 
-* Implementing a shader script which i have used before in previous projects. Adds great visuals for the star fleet command ships. 
+* Implementing a shader script which i have used before in previous projects. Adding  great visuals for the star fleet command ships blue transparent shield. 
 
 
 Scene 1
