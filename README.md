@@ -12,7 +12,7 @@ How it works
 
 * Movement
 
-Spaceship movement script / Obstacle Avoidance
+- Spaceship movement script / Obstacle Avoidance -
 
 Creating a serialized field target so i can assign a target in which the space
 Void Turn rotates the spaceships nose to whatever postion its assigned target is
@@ -25,7 +25,10 @@ I wanted to create 4 ray casts on the spaceship
 When the spaceship is moving towards a target and one of the ray collides with an object it will relay this to the spacehip making it move to avoid collision.
 
 
-I created 4 Vectors 3s which were each postion of the rays and where the postioning would be on the spaceship. 
+I created four Vectors 3s which were each postion of the rays and where the postioning would be on the spaceship. 
+I draw the rays so that i can visually see the rays. 
+
+I create a serialized field with detection distance which creates the distance of the rays. This can be altered in the hireachy which helped me for testing purposes. 
 
 
 
