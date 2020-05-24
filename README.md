@@ -12,6 +12,21 @@ How it works
 
 * Movement
 
+Spaceship movement script / Obstacle Avoidance
+
+Creating a serialized field target so i can assign a target in which the space
+Void Turn rotates the spaceships nose to whatever postion its assigned target is
+Void Move moves the spaceship towards the assigned target.
+In the project you can edit in the hierarchy the movement speed and rotational speed of the spaceship.
+
+I wanted to create 4 ray casts on the spaceship
+1 below,1 on top,1 to the left of the ship and 1 to the right.
+
+When the spaceship is moving towards a target and one of the ray collides with an object it will relay this to the spacehip making it move to avoid collision.
+
+
+I created 4 Vectors 3s which were each postion of the rays and where the postioning would be on the spaceship. 
+
 
 
 * Visuals
