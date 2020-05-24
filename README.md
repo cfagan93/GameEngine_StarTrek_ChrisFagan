@@ -4,13 +4,19 @@ Game Engine Star Trek Scene Reproduction
 
 Instructions
 
-* Please download project and open Scene 1.
+* Please download the project and open/play Scene 1.
 
-* The project will automatically play and the player will have to use the space button to switch scenes. The player (you) also has contorl of the free movement camera. 
+* The project will automatically play and the player will have to use the space button/key to switch scenes. The player (you) also has contorl of the free movement camera. 
 
 How it works
 
-* 
+* Movement
+
+
+
+* Visuals
+
+
 
 
 What am i most proud of in this assignment
