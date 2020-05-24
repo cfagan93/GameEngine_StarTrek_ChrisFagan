@@ -8,11 +8,9 @@ Instructions
 
 * The project will automatically play and the player will have to use the space button/key to switch scenes. The player (you) also has contorl of the free movement camera. 
 
-How it works
+// How it works // 
 
-* Movement
-
-- Spaceship movement script / Obstacle Avoidance -
+* Spaceship movement script / Obstacle Avoidance 
 
 Creating a serialized field target so i can assign a target in which the spaceship flys towards.
 
