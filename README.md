@@ -32,10 +32,17 @@ I draw the rays so that i can visually see the rays.
 I create a serialized field with detection distance which creates the distance of the rays. This can be altered in the hireachy which helped me for testing purposes. 
 
 
+* Scripts I Created
+EnemyMovement
+Asteroids
+AsteroidsManager
+Flickering Lights
+SceneChanger
 
-* Visuals
-
-
+* Scripts and tutorials i followed
+Hologram Shader
+FreeCam
+CameraController
 
 
 What am i most proud of in this assignment
