@@ -15,7 +15,11 @@ How it works
 
 What am i most proud of in this assignment
 
-* Creating a sci fi space battle scene which closely 
+* Creating a sci fi space battle scene which closely recaptures the Star Trek battle.
+
+* Creating a fluid space ship movement script that moves towards a target while avoiding obstacles in its path or way.
+
+* Implementing a shader script which i have used before in previous projects. Adds great visuals for the star fleet command ships. 
 
 
 Scene 1
